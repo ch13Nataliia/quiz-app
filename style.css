@@ -41,14 +41,17 @@ ul li label {
   cursor: pointer;
 }
 button {
-  background-color: #2b7ed6;
+  background-color: #dc446d;
   color: #f5f7f7;
   border: none;
+  border-radius: 10px;
   display: flex;
-  width: 100%;
+  width: 30%;
   cursor: pointer;
   font-size: 1.1rem;
   padding: 1.3rem;
+  justify-content: center;
+  margin: 20px auto;
 }
 button:hover {
   background-color: rgb(146, 167, 187);
